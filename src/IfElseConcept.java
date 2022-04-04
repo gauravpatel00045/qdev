@@ -12,7 +12,7 @@ public class IfElseConcept {
         int age = 30;
         int adultAge = 18;
 
-        if (age > adultAge) {
+        if (age >= adultAge) {
             System.out.println("You are adult");
         } else {
             System.out.println("You are not an adult");
